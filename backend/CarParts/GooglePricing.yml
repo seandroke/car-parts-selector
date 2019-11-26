@@ -1,0 +1,9 @@
+item_name:
+    css: 'div.sh-dlr__list-result:nth-of-type(1) a.AGVhpb'
+    type: Text
+item_price:
+    css: 'div.sh-dlr__list-result:nth-of-type(1) span.h1Wfwb span:nth-of-type(2)'
+    type: Text
+store_link:
+    css: 'div.sh-dlr__list-result:nth-of-type(1) a.shntl'
+    type: Link
