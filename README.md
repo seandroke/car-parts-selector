@@ -37,13 +37,12 @@ relies upon the framework to query (web scrape) results from google and return a
 
 - Axios: A JQuery like package for making GET and POST requests. Especially effective with Django.
 - React-Bootstrap: A means of integrating bootstrap effectively with React.
-- SelectorLib: A web scraping library to pull content from sites/platforms without public API's.
 
 
 <strong>Back End</strong>
 - Django Cors Headers: A means of controlling CORS usually essential during the development phase.
-- Django REST framework: The REST framework is a means of creating efficient and structured API's it incorporates functionality
-for web applications that would otherwise lengthen the development process.
+- Django REST framework: The REST framework is a means of creating efficient and structured API's it incorporates functionality for web applications that would otherwise lengthen the development process.
+- SelectorLib: A web scraping library to pull content from sites/platforms without public API's.
 
 
 ### Versioning & Future Functionality
