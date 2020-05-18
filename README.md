@@ -54,7 +54,7 @@ accept year make and model and via a custom URL, google shopping is web scraped 
 listed. Currently, product name is spotty, certain vehicles will feature products without names. Additionally, links have to be
 fixed as Google routinely adjusts how they create URL's for their shopping platform.
 
-Future intended functionlaity is to widen the scope of product queries and massage data that is web scraped to attempt to
+Future intended functionality is to widen the scope of product queries and massage data that is web scraped to attempt to
 eliminate situations where the product name is not accurately scraped. Incorporating Amazon or other auto parts stores would
 allow us to refine the products displayed to ensure best price. Multithreading the python view as well as adding searched vehicles
 to a database for ease of access would enhance speed.
